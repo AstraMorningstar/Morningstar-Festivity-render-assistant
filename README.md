@@ -24,6 +24,9 @@ For certain characters if the shadow is wrong, check its material slot and chang
 Slide bar is for face sdf, slide it to the corresponding charater type.
 
 ----Credit----
-Astra Morningstar (Creator of the addon)
+
+Astra Morningstar (Creator of the addon):
+
 Original shader auther: 
+
 MMD tools for its import export function
