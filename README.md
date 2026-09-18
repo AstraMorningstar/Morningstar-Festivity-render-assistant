@@ -1,4 +1,7 @@
 # Morningstar-Festivity-render-assistant
+Recommended Verified Supported version of blender: 3.6/4.2/5.1, goo-engine supported
+
+Other versions are not tested and verified!!!
 
 For GI characters in PMX and FBX
 
