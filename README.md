@@ -8,6 +8,7 @@ For GI characters in PMX and FBX
 Advantage:extremely easy to use, support multiple characters
 
 ----Guide----
+[Guide](https://youtu.be/89WUcWfqa2s)
 
 Every button is useful!!
 
@@ -36,6 +37,7 @@ MMD tools for its import export function
 
 
 晨星Festivity渲染助手
+
 推荐已验证支持的 Blender 版本：Blender 3.6 / 4.2 / 5.1
 
 同时支持 Goo Engine。
@@ -47,6 +49,7 @@ MMD tools for its import export function
 优点：操作极其简单，并支持多角色。
 
 使用指南
+[bilibili](https://www.bilibili.com/video/BV1Dae26iENj/)
 
 每一个按钮都有用！！
 
