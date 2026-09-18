@@ -5,6 +5,8 @@ Other versions are not tested and verified!!!
 
 For GI characters in PMX and FBX
 
+Advantage:extremely easy to use, support multiple characters
+
 Original shader auther: 
 
 Guide
