@@ -27,9 +27,9 @@ please star if it is useful :)
 
 ----Credit----
 
-Astra Morningstar (Creator of the addon):
+Original shader auther: [@festivity](https://github.com/festivities) 
 
-Original shader auther: 
+Astra Morningstar (Creator of the addon): [Youtube](https://youtube.com/@astramorningstar33?si=im9V2qTq3_jHf4mc)|[Artstation](https://www.artstation.com/astra-morningstar)
 
 MMD tools for its import export function
 
@@ -70,11 +70,9 @@ MMD tools for its import export function
 
 制作人员 / 鸣谢
 
-插件作者：
+原始 Shader 作者：[@festivity](https://github.com/festivities) 
 
-Astra晨星
-
-原始 Shader 作者：
+插件作者：Astra晨星 [bilibili](https://space.bilibili.com/3706948700604894/favlist?fid=3946253894&ftype=create)
 
 MMD Tools 用于 PMX/MMD 模型的导入与导出功能：
 
