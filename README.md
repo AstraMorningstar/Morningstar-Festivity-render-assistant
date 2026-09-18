@@ -23,6 +23,8 @@ For certain characters if the shadow is wrong, check its material slot and chang
 
 Slide bar is for face sdf, slide it to the corresponding charater type.
 
+please star if it is useful :)
+
 ----Credit----
 
 Astra Morningstar (Creator of the addon):
@@ -63,6 +65,8 @@ MMD tools for its import export function
 极少数情况，如果出现阴影显示错误，请检查对应的 Material Slot（材质槽），并手动修改其 Lightmap。
 
 插件中的滑动条用于调整面部 SDF。请根据对应的角色类型将其调整到合适的位置。
+
+如果有用请点亮星星：）
 
 制作人员 / 鸣谢
 
