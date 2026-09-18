@@ -31,6 +31,8 @@ Original shader auther:
 
 MMD tools for its import export function
 
+
+
 晨星Festivity渲染助手
 推荐已验证支持的 Blender 版本：Blender 3.6 / 4.2 / 5.1
 
