@@ -7,7 +7,7 @@ For GI characters in PMX and FBX
 
 Advantage:extremely easy to use, support multiple characters
 
-          Guide
+----Guide----
 
 Every button is useful!!
 
@@ -23,7 +23,7 @@ For certain characters if the shadow is wrong, check its material slot and chang
 
 Slide bar is for face sdf, slide it to the corresponding charater type.
 
-          Credit:
+----Credit----
 Astra Morningstar (Creator of the addon)
 Original shader auther: 
 MMD tools for its import export function
